@@ -20,7 +20,7 @@ BOM:
 | USBLC6-2SC6 | 1 | $0.45 | TME | [Link](https://www.tme.eu/it/details/usblc6-2sc6/diodi-di-protezione-reti/stmicroelectronics/) |
 | TLV75733PDBVR | 1 | $0.25 | TME | [Link](https://www.tme.eu/it/details/tlv75733pdbvr/stabilizzatori-di-tens-non-regol-ldo/texas-instruments/) |
 
-TOTAL WITH TAX: $44.87
+TOTAL WITH TAX AND SHIPPING: $44.87
 
 
 PCB <img width="880" height="804" alt="Screenshot 2026-10-31 113358" src="https://github.com/user-attachments/assets/15aa4e5a-d2a8-473a-9992-b02adcbfe9bf" />
