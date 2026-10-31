@@ -542,7 +542,7 @@
       "netlist": "",
       "plot": "../GitHub/ESP32 S3 Mini Board/Manufacturing/gerbers/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../CAD/ESP32 S3 MINI.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
